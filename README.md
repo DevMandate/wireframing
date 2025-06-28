@@ -138,3 +138,43 @@ This `README.md` contains **low-fidelity wireframing content**.
 
 It is focused on conveying structure, layout, and key elements without involving visual styling, fonts, or interactivity. It is purely informational and educational—just like a lo-fi wireframe presents functionality and hierarchy without final visuals.
 
+
+## Popular Wireframing Tools
+
+There are several tools available for creating wireframes, ranging from basic sketching tools to full-featured design platforms. Each tool serves different purposes depending on the level of detail, collaboration needs, and designer preferences.
+
+Here are some commonly used wireframing tools:
+
+### Balsamiq
+- Known for its simple, sketch-like interface
+- Great for low-fidelity wireframes
+- Easy to use for quick brainstorming and client feedback
+
+### Adobe XD
+- Supports both wireframing and high-fidelity prototyping
+- Integrates well with other Adobe products
+- Offers interactive and collaborative design capabilities
+
+### Sketch
+- Popular among macOS users
+- Clean interface and strong plugin support
+- Often used for high-fidelity mockups and interface design
+
+### Figma (Recommended)
+
+Figma is one of the most powerful and widely used design tools today, particularly favored for its **collaboration-friendly environment**.
+
+**Key Features:**
+- **Browser-based:** No installation required; works across devices and platforms
+- **Real-time collaboration:** Multiple team members can work on the same file simultaneously
+- **Version history:** Tracks changes and allows rollback
+- **Prototyping and interactions:** Go beyond static wireframes to clickable prototypes
+- **Reusable components:** Create design systems and consistent UI elements
+
+**Why Figma is Great for Wireframing:**
+- Combines low-fidelity and high-fidelity design in one platform
+- Encourages iterative design and rapid feedback
+- Easy to share with stakeholders, clients, and developers
+- Intuitive interface for beginners and powerful tools for advanced users
+
+Whether you're sketching rough ideas or building pixel-perfect mockups, Figma is a versatile and scalable tool suitable for all stages of the wireframing process.
