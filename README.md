@@ -42,7 +42,7 @@ Wireframes provide a roadmap for the visual design and frontend implementation, 
 
 > *Wireframing is not about aesthetics—it’s about usability, clarity, and structure. A good wireframe sets the foundation for a user-friendly product.*
 
-## 🧱 Key Elements of a Wireframe
+## Key Elements of a Wireframe
 
 A wireframe breaks down a digital interface into its most essential parts, focusing on layout, structure, and usability. Below are the key elements typically found in wireframes, along with their roles in shaping the user experience:
 
@@ -83,4 +83,58 @@ Functionality outlines the intended user interactions and core features such as 
 
 **Example:**  
 On a login page, a wireframe would include input fields for username and password, a
+
+
+## Types of Wireframes
+
+Wireframes can vary in detail and fidelity depending on the stage of the design process and the goal of the project. The two primary types are:
+
+---
+
+### Low-Fidelity Wireframes
+
+**Definition:**  
+Low-fidelity (lo-fi) wireframes are basic, simplified representations of the interface. They usually focus on structure and layout rather than visual detail or interactivity.
+
+**Characteristics:**
+- Often grayscale
+- Use placeholders (like boxes for images or "Lorem Ipsum" for text)
+- Rough and quick to produce
+- Created using pen and paper or basic digital tools
+
+**When to Use:**
+- Early in the design process
+- When brainstorming or communicating rough ideas
+- For rapid iterations and feedback
+
+**Example Use Case:**  
+Sketching a homepage layout to show the general structure to stakeholders during a kickoff meeting.
+
+---
+
+### High-Fidelity Wireframes
+
+**Definition:**  
+High-fidelity (hi-fi) wireframes are more polished and closer to the final product. They include detailed UI elements and may mimic real content, colors, and fonts.
+
+**Characteristics:**
+- Closer to actual UI design
+- Include more specific spacing, alignments, and interactions
+- Sometimes interactive (e.g., using Figma or Adobe XD)
+
+**When to Use:**
+- Mid-to-late stages of the design process
+- When presenting to developers or stakeholders for approval
+- Before handing off to development teams
+
+**Example Use Case:**  
+Creating a detailed wireframe for a product page showing exact button placement, font choices, and layout for mobile and desktop screens.
+
+---
+
+## What Type of Wireframe Is This README?
+
+This `README.md` contains **low-fidelity wireframing content**.
+
+It is focused on conveying structure, layout, and key elements without involving visual styling, fonts, or interactivity. It is purely informational and educational—just like a lo-fi wireframe presents functionality and hierarchy without final visuals.
 
